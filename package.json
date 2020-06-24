@@ -72,7 +72,7 @@
     "vue-template-compiler": "^2.6.11",
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.12.2",
-    "webpack-hot-middleware": "^2.12.2",
+    "webpack-hot-middleware": "^2.25.0",
     "webpack-merge": "^4.2.2"
   },
   "engines": {
